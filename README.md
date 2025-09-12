@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Afzal Hussain
+💻 Frontend Software Engineer | Angular | TypeScript | JavaScript  
+🚀 3.5+ years of experience in building scalable, responsive web applications.  
+🔗 [LinkedIn](https://www.linkedin.com/in/afzal-hussain-4a505622a/) | [GitHub](https://github.com/afzal20071991)
 
-<!--
-**afzal20071991/afzal20071991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔨 Tech Stack
+- **Frontend**: Angular, JavaScript, TypeScript, HTML, CSS, RxJS  
+- **Backend**: Node.js, Express.js, MongoDB  
+- **Tools**: Git, GitHub, Postman, Jasmine, Karma, Azure  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [Product Listing App](https://github.com/afzal20071991/product-listing-app)  
+- [E-commerce App](#)  
+- [Payment Gateway System](#)
