@@ -9,6 +9,6 @@
 - **Tools**: Git, GitHub, Postman, Jasmine, Karma, Azure  
 
 ## 📌 Featured Projects
-- [Product Listing App](https://github.com/afzal20071991/product-listing-app)  
-- [E-commerce App](#)  
+- [Product Listing App](https://github.com/afzal20071991/product-listing-apps)  
+- [E-commerce App](https://github.com/afzal20071991/e-commerce-app)  
 - [Payment Gateway System](#)
