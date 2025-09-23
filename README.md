@@ -4,7 +4,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/afzal-hussain-4a505622a/) | [GitHub](https://github.com/afzal20071991)
 
 ## 🔨 Tech Stack
-- **Frontend**: Angular, JavaScript, TypeScript, HTML, CSS, RxJS  
+- **Frontend**: Angular, JavaScript, TypeScript, HTML, CSS, RxJS, Redux, NgRx  
 - **Backend**: Node.js, Express.js, MongoDB  
 - **Tools**: Git, GitHub, Postman, Jasmine, Karma, Azure  
 
